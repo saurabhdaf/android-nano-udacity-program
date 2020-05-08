@@ -12,10 +12,10 @@ Building a layout and populating its fields from data received as JSON is a comm
 
 ## What Will I Learn?
 
-~ Learn how to submit projects for review
-~ Practice JSON parsing to a model object
-~ JSON is used to store information in an organized, and easy-to-access manner. Its full form is JavaScript Object Notation. It offers a human-readable collection of data which can be accessed logically.
-~ Populate all fields in the layout accordingly
+* Learn how to submit projects for review
+* Practice JSON parsing to a model object
+* JSON is used to store information in an organized, and easy-to-access manner. Its full form is JavaScript Object Notation. It offers a human-readable collection of data which can be accessed logically.
+* Populate all fields in the layout accordingly
 
 ## Libraries:
 
