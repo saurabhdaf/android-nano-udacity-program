@@ -2,7 +2,7 @@
 # SandwichClub
 
 
-Sandwich Club App , created as a part of Udacity Android Developer Nanodegree Program. The application parse Json data using native API.
+Sandwich Club App , created as a part of Udacity Android Developer Nanodegree Program. 
 
 ## Screenshots:
 ![Screen](https://raw.githubusercontent.com/kiwisudhakar/SandwichClub/master/images/mockup.png)
@@ -12,10 +12,10 @@ Building a layout and populating its fields from data received as JSON is a comm
 
 ## What Will I Learn?
 
-* Learn how to submit projects for review
-* Practice JSON parsing to a model object
-* Design an activity layout
-* Populate all fields in the layout accordingly
+~ Learn how to submit projects for review
+~ Practice JSON parsing to a model object
+~ JSON is used to store information in an organized, and easy-to-access manner. Its full form is JavaScript Object Notation. It offers a human-readable collection of data which can be accessed logically.
+~ Populate all fields in the layout accordingly
 
 ## Libraries:
 
