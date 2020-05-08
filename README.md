@@ -1,11 +1,11 @@
 
 # SandwichClub
-<a href="https://codeclimate.com/github/YassinAJDI/SandwichClub/maintainability"><img src="https://api.codeclimate.com/v1/badges/d271046c10290f8bca66/maintainability" /></a>
+
 
 Sandwich Club App , created as a part of Udacity Android Developer Nanodegree Program. The application parse Json data using native API.
 
 ## Screenshots:
-![Screen](https://raw.githubusercontent.com/YassinAJDI/SandwichClub/master/images/mockup.png)
+![Screen](https://raw.githubusercontent.com/kiwisudhakar/SandwichClub/master/images/mockup.png)
 
 ## Why this Project
 Building a layout and populating its fields from data received as JSON is a common task for Android Developers. Although JSON parsing is usually done using libraries, writing the JSON parsing for this project will help you to better understand how it is processed.
